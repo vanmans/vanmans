@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "vanmans",
+  "upload_source_maps": true,
+  "observability": {
+    "enabled": true
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "vanmans-openapi--db",
+      "database_id": "413afc60-7eea-4541-a50c-5d8a855a6477"
+    }
+  ]
+}
